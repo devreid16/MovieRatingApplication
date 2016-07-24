@@ -1,0 +1,1 @@
+﻿select StateAbbrev from StateLookup order by StateAbbrev 

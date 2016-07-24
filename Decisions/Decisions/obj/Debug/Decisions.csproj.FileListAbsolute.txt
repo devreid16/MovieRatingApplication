@@ -1,0 +1,5 @@
+c:\users\reida\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.exe.config
+c:\users\reida\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.exe
+c:\users\reida\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.pdb
+c:\users\reida\documents\visual studio 2015\Projects\Decisions\Decisions\obj\Debug\Decisions.exe
+c:\users\reida\documents\visual studio 2015\Projects\Decisions\Decisions\obj\Debug\Decisions.pdb

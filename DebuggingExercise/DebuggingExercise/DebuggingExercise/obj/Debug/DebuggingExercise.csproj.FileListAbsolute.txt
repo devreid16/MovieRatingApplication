@@ -1,0 +1,16 @@
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\DebuggingExercise\DebuggingExercise\bin\DebuggingExercise.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\DebuggingExercise\DebuggingExercise\bin\DebuggingExercise.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\DebuggingExercise\DebuggingExercise\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.pdb
+C:\Users\Eugenia\Documents\242\4112\Labs\DebuggingExercise\DebuggingExercise\DebuggingExercise\bin\DebuggingExercise.dll
+C:\Users\Eugenia\Documents\242\4112\Labs\DebuggingExercise\DebuggingExercise\DebuggingExercise\bin\DebuggingExercise.pdb
+C:\Users\Eugenia\Documents\242\4112\Labs\DebuggingExercise\DebuggingExercise\DebuggingExercise\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eugenia\Documents\242\4112\Labs\DebuggingExercise\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.dll
+C:\Users\Eugenia\Documents\242\4112\Labs\DebuggingExercise\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.pdb
+C:\Users\reida\Documents\Visual Studio 2015\Projects\DebuggingExercise (2)\DebuggingExercise\DebuggingExercise\bin\DebuggingExercise.dll.config
+C:\Users\reida\Documents\Visual Studio 2015\Projects\DebuggingExercise (2)\DebuggingExercise\DebuggingExercise\bin\DebuggingExercise.dll
+C:\Users\reida\Documents\Visual Studio 2015\Projects\DebuggingExercise (2)\DebuggingExercise\DebuggingExercise\bin\DebuggingExercise.pdb
+C:\Users\reida\Documents\Visual Studio 2015\Projects\DebuggingExercise (2)\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.csprojResolveAssemblyReference.cache
+C:\Users\reida\Documents\Visual Studio 2015\Projects\DebuggingExercise (2)\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.dll
+C:\Users\reida\Documents\Visual Studio 2015\Projects\DebuggingExercise (2)\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.pdb

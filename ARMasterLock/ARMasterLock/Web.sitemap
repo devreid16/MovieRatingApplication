@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="/Default" title="Home"  description="Home Page">        
+        <siteMapNode url="/CreateAccount" title="Create Account"  description="Create Account" />
+        <siteMapNode url="/OrderLocks" title="Order Locks"  description="Order Locks" />
+        <siteMapNode url="/SearchLocks" title="Search Locks"  description="Search Locks" />
+    </siteMapNode>
+</siteMap>

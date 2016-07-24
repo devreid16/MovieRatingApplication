@@ -1,0 +1,31 @@
+﻿/*
+   CIT242 ASP.NET 
+   Assignment 6
+   
+   Author: Angela Reid
+   Date:  2/20/2016 
+
+   Filename: LockCss.css
+
+   This file contains styles used in the ARMasterLock Website.
+*/
+
+
+
+
+body {
+    
+    }
+.navbar.navbar-inverse.navbar-fixed-top {
+
+    font-family:'Bradley Hand ITC';  background-color:palegoldenrod;     
+}
+h1, h2, h3 {
+    color: gold;
+    font-size: 24px ; 
+}
+.ErrorMessage {
+    color: red;
+}
+
+
